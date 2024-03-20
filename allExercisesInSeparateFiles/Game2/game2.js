@@ -9,7 +9,7 @@ function game2Setup(){
   // Hide the Activity 2 button, show all the other buttons
   menuButton.show();
   game1Button.show();
-  game2Button.hide();
+  game2Button.show();
   game3Button.show();
   game4Button.show();
 }
