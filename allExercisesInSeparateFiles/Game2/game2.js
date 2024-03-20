@@ -17,7 +17,7 @@ function game2Setup(){
 function game2Draw(){
   background('rgba(0,255,0, 0.25)');
   
-  fill('black');
+  fill('red');
   text('Activity 2 goes here', 200, 200);
 }
 
